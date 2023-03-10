@@ -29,9 +29,9 @@ My goal was to complete the analysis I had set out to do to through data visuali
 
 The first visualization I set out to do was a map that allows you to hover over and show you the average housing price for a specific London Borough as shown below. 
 
-<img width="700" alt="Screen Shot 2023-03-09 at 22 13 33" src="https://user-images.githubusercontent.com/119052310/224172271-01de75d4-8c22-4cb1-9bb1-f9bd0eadb9b6.png">
+<img width="700" alt="Screen Shot 2023-03-10 at 13 47 08" src="https://user-images.githubusercontent.com/119052310/224332139-e247bc32-68e4-4ccc-aca3-7b3cb04384c1.png">
 
-I decided to differentate the average housing prices by using a colour gradient to higlight the most expensive boroughs in a bright, alarming red with the least expensive ones in an inviting green tone. I also thought adding the median salary of each borough in the tiptool would add more context, and see if there's any relationship between the median salary and average housing price of each London Borough.
+I decided to differentate the average housing prices by using a colour gradient to higlight the most expensive boroughs in a bright, alarming red with the least expensive ones in an inviting green tone. I also thought adding the median salary and total number of crimes of each borough in the tiptool would add more context, and see if there's any relationship between the median salary, number of crimes and average housing price of each London Borough.
 
 ### Numbers Table: London Overall
 
@@ -98,14 +98,24 @@ After the global financial crisis started to settle, the number of houses and th
 
 ## Limitations 
 
+The data cleaning process I did was not 100% thorough as there were duplicated rows of data during the process although I do believe the same number of records were duplicated. When I first inner joined the the files "<b>housing_in_london_yearly_variables.csv</b>" and the shape spatial file "<b>London_Ward_CityMerged.shp</b>", the number of rows increased significantly from 756 rows to 13293 rows. I believe the reason that Tableau did this was due to the necessity to keep all the data the the shape spatial file that would define the borders for the Lonodon Bouroughs as when I tried to clean up the data manually and make sure to keep the data at 756 rows, the London Boroughs did not show up properly. 
 
+Base on the numbers reflected and my general knowledge, I believe the numbers do reflect the reality of the situation in London and for future analysis, it would be great to upgrade my current Tableau software with Tableau Prep or use other visualization softwares such as PowerBI to ensure throguh data cleaning. 
 
 ## Further Analysis
 
-Analyse relatinship between GINI coeffient and housing prices 
-People's mobility to move up - poor, middle class, etc. 
+For future extension, I would like to look at the following for further analysis:
+<ul>
+  <li>Relationship between Weatlh Gap and House Prices, Houses Sold</li>
+  <li>Relationship between People's Mobility and House Prices</li>
+ </ul>
 
-## Conclusion
+These first one would be interesting to look at as my hypothesis and findings indicate that there is likely a relationship Weaalth gap and Housing. 
+Lastly, I believe the because of the increasing wealth gap in London, people's mobility and ability to move up in society could also be linked to the housing situation in London. 
+
+## Conclusion and final thoughts
+
+I really enjoyed doing this project 
 
 
 ## Datasets used:
