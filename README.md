@@ -16,7 +16,7 @@ The idea of this project came from after I came across a Los Angeles Rental Pric
 
 <b>To set up the analysis and data visulization, I did the following to clean up the data:</b>
 <ul>
-  <li>Filtered out locations that were specific to London i.e. Scotland, Wales, England, United Kingdom etc.</li>
+  <li>Filtered out locations that were not specific to London i.e. Scotland, Wales, England, United Kingdom etc.</li>
   <li>Inner joined London Housing monthly data, yearly data and London Borough spatial shape file</li>
   <li>Hide unnecessary columns for visualisation</li>
 </ul>
