@@ -100,7 +100,7 @@ After the global financial crisis started to settle, the number of houses and th
 
 The data cleaning process I did was not 100% thorough as there were duplicated rows of data during the process although I do believe the same number of records were duplicated. When I first inner joined the the files "<b>housing_in_london_yearly_variables.csv</b>" and the shape spatial file "<b>London_Ward_CityMerged.shp</b>", the number of rows increased significantly from 756 rows to 13293 rows. I believe the reason that Tableau did this was due to the necessity to keep all the data the the shape spatial file that would define the borders for the Lonodon Bouroughs as when I tried to clean up the data manually and make sure to keep the data at 756 rows, the London Boroughs did not show up properly. 
 
-Base on the numbers reflected and my general knowledge, I believe the numbers do reflect the reality of the situation in London and for future analysis, it would be great to upgrade my current Tableau software with Tableau Prep or use other visualization softwares such as PowerBI to ensure throguh data cleaning. 
+Base on the numbers reflected and my general knowledge, I believe the numbers do reflect the reality of the situation in London and for future analysis, it would be great to upgrade my current Tableau software with Tableau Prep or use other visualization softwares such as PowerBI to ensure through data cleaning. 
 
 ## Further Analysis
 
