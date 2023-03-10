@@ -6,9 +6,9 @@ The idea of this project came from after I came across a Los Angeles Rental Pric
 
 <b>The aim of this project is to see analyze the following:</b>
 <ul>
-  <li>Relationship between Average Housing Price and Houses Sold from 1999 to 2020</li>
+  <li>Relationship between Average Housing Price and Houses Sold from 1995 to 2020</li>
   <li>The Median Salary and Average Housing Price by Borough from 1999 to 2020</li>
-  <li>Average Housing Price change from 1999 to 2020</li>
+  <li>Average Housing Price change from 1995 to 2020</li>
   <li>Median Salary in London from 1999 to 2020</li>
 </ul>
 
