@@ -119,7 +119,7 @@ I really enjoyed doing for my first Data Visualization project. Most of the find
 
 I believe this proejct helped to hone in my skills as a budding data analyst, practice the Tableau skills I have learnt from the courses I have taken and be able to apply it in a practical setting that can be applied to my career in Data Analytics. 
 
-## Datasets used:
+## Datasets Used
 
 <ol>
 <li><a href="https://www.kaggle.com/datasets/justinas/housing-in-london">London Housing Data 1995-2020</a></li>
