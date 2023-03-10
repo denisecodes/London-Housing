@@ -110,13 +110,14 @@ For future extension, I would like to look at the following for further analysis
   <li>Relationship between People's Mobility and House Prices</li>
  </ul>
 
-These first one would be interesting to look at as my hypothesis and findings indicate that there is likely a relationship Weaalth gap and Housing. 
+These first one would be interesting to look at as my hypothesis and findings indicate that there is likely a relationship Wealth Gap and Housing. 
 Lastly, I believe the because of the increasing wealth gap in London, people's mobility and ability to move up in society could also be linked to the housing situation in London. 
 
 ## Conclusion and final thoughts
 
-I really enjoyed doing this project 
+I really enjoyed doing for my first Data Visualization project. Most of the findings I found were not a surprise to me but seeing the change in the average housing prices over two decades in London was super interesting. What really striked out of all the findings was the number of houses sold since 2014 has continued in a steady decline. 
 
+I believe this proejct helped to hone in my skills as a budding data analyst, practice the Tableau skills I have learnt from the courses I have taken and be able to apply it in a practical setting that can be applied to my career in Data Analytics. 
 
 ## Datasets used:
 
