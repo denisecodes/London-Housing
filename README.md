@@ -122,6 +122,6 @@ I believe this proejct helped to hone in my skills as a budding data analyst, pr
 ## Datasets used:
 
 <ol>
-<li><a href="https://www.kaggle.com/datasets/justinas/housing-in-london">London Housing Data 1999-2020</a></li>
+<li><a href="https://www.kaggle.com/datasets/justinas/housing-in-london">London Housing Data 1995-2020</a></li>
 <li><a href="https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london">Statistical File of London Boroughs</a></li>
 </ol>
