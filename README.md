@@ -62,31 +62,48 @@ I created the following filters to allow users to drill down on specific data th
   <li>Year</li>
 </ul>
 
-<img width="313" alt="Screen Shot 2023-03-09 at 23 01 38" src="https://user-images.githubusercontent.com/119052310/224179748-7dbdef48-bcd0-46d6-847f-3e0045a51460.png">
+<img width="319" alt="Screen Shot 2023-03-10 at 11 33 04" src="https://user-images.githubusercontent.com/119052310/224305720-330cce28-d655-4095-b68a-c8b95a93584d.png">
 
+I decided to use the slider function for the Year filter for Map as it's really interesting to see the change in colour and truly reflects the housing price change over the last two decades in London. 
 
 ## Key Findings
 
-<b>Most expensive boroughs</b>
+<b>Most expensive boroughs over the years</b>
 <ul>
   <li>Kensington and Chelseas</li>
   <li>City of Westminster</li>
   <li>Camden</li>
 </ul>
 
-<b>Least expensive boroughs</b>
+<b>Least expensive boroughs over the years</b>
 <ul>
   <li>Barking and Dagenham</li>
   <li>Bexley</li>
   <li>Croydon</li>
 </ul>
 
+These findings didn't come as a surprised to me as someone that has been living in London for 1.5 years with the knowledge I know about the city's rental prices, transport network, crime rate etc. What it really highlights is that there is a clear inbalance in the city's housing prices and the gap has further widened after 20 years. From this finding, I believe that the wealthier parts in the capital are still in the same areas whilst the poorer areas are continuing to stay poor. In fact, my opinion here is supported by the data provided by <a href="https://www.trustforlondon.org.uk/data/wealth-distribution/#:~:text=Wealth%20is%20very%20unequally%20distributed,of%20London's%20total%20net%20wealth.">Trust for London</a> from 2018 to 2020, where the organisation higlighted "<b>Wealth is very unequally distributed. In London, those in the top wealth decile (i.e. the 10% of people with the highest wealth) hold 44.3% of London’s total net wealth. Those in the bottom decile (the bottom 10%) hold none of London’s total net wealth.</b>" 
+
+In conclusion, the finding here shows that wealth distribution in the capital has not changed much since 1999 with the wealth gap further widened and housing prices could be related to this. 
+
 <b>Relationship between Average Housing Price and Houses Solds</b>
 
+<img width="500" alt="Screen Shot 2023-03-09 at 22 40 30" src="https://user-images.githubusercontent.com/119052310/224176586-61fd4374-2deb-4fb2-9610-74eb48986ba1.png">
+
+From this chart, we can see that the number of houses sold were on a steady rise between 1995 to 2002, before taking a small dip in between 2002 and 2005 before increasing again in 2006 until 2008. The dip after 2008 makes sense given the global financial crisis back then. Interestingly, we can see overall the average housing price has continued at a steady increase over the years, with a dip in 2008, which again does not come as a surprised given the economic climate. 
+
+One of the biggest findings from this chart is when there was a big crash in the number of hosues sold from 2007 to 2008, indicating a massive drop in the housing marketing which correlates to the drop in the average housing price as the demand to buy a house decreased significantly. From my calculations using this dataset and visualization, the number of houses dropped by around 50% from 2007 and 2008. Since then, the number of houses sold has not gone back up to the numbers before 2008.
+
+After the global financial crisis started to settle, the number of houses and the average housing price started to go back up in 2009. Interestingly, the number of houses sold started to drop after 2014 and has continued to decreased until 2020, whilst the average housing price has continued on a steady increase during this time. You can also see in 2016 when the two lines interesect, where the number of houses sold is now below the average housing price. The finding here correlates to me a lot and it shows that less and less people can afford to buy a house whilst the housing prices continues to increase. 
 
 ## Limitations 
 
+
+
 ## Further Analysis
+
+Analyse relatinship between GINI coeffient and housing prices 
+People's mobility to move up - poor, middle class, etc. 
 
 ## Conclusion
 
